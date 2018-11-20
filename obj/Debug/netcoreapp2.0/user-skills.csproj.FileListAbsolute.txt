@@ -1,0 +1,10 @@
+/home/borowskiy/user-skills/bin/Debug/netcoreapp2.0/user-skills.deps.json
+/home/borowskiy/user-skills/bin/Debug/netcoreapp2.0/user-skills.runtimeconfig.json
+/home/borowskiy/user-skills/bin/Debug/netcoreapp2.0/user-skills.runtimeconfig.dev.json
+/home/borowskiy/user-skills/bin/Debug/netcoreapp2.0/user-skills.dll
+/home/borowskiy/user-skills/bin/Debug/netcoreapp2.0/user-skills.pdb
+/home/borowskiy/user-skills/obj/Debug/netcoreapp2.0/user-skills.csproj.CoreCompileInputs.cache
+/home/borowskiy/user-skills/obj/Debug/netcoreapp2.0/user-skills.AssemblyInfoInputs.cache
+/home/borowskiy/user-skills/obj/Debug/netcoreapp2.0/user-skills.AssemblyInfo.cs
+/home/borowskiy/user-skills/obj/Debug/netcoreapp2.0/user-skills.dll
+/home/borowskiy/user-skills/obj/Debug/netcoreapp2.0/user-skills.pdb
